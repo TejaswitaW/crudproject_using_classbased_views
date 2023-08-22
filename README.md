@@ -1,4 +1,4 @@
-# CRUD implementation project
+# CRUD implementation project using class based views.
 ## Technologies Used
 ### Backend
 * Python
